@@ -9,7 +9,7 @@ Este projeto consiste no desenvolvimento de uma página web para divulgação de
   <tr>
     <td align="center">
       <a href="#" title="Guilherme Enrich">
-        <img src="https://avatars.githubusercontent.com/u/131412804?v=4" width="100px;" alt="Foto do Guilherme Enrich no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/197928809?v=4" width="100px;" alt="Foto do Guilherme Enrich no GitHub"/><br>
         <sub>
           <b>Guilherme Enrich - Front End</b>
         </sub>
@@ -17,7 +17,7 @@ Este projeto consiste no desenvolvimento de uma página web para divulgação de
     </td>
     <td align="center">
       <a href="#" title="Luís Gustavo">
-        <img src="https://avatars.githubusercontent.com/u/81786058?v=4" width="100px;" alt="Foto do Kauã Rossi"/><br>
+        <img src="https://avatars.githubusercontent.com/u/296602355?v=4" width="100px;" alt="Foto do Luis Gustavo"/><br>
         <sub>
           <b>Luís Gustavo - Front End</b>
         </sub>
