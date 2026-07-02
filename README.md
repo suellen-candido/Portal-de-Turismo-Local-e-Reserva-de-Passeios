@@ -1,5 +1,5 @@
 # Portal de Turismo Local e Reserva de Passeios.
-[inserir imagem]
+<img src="Horizonte Turismo.png" width="640px;" alt="Página Inicial"/>
 
 Este projeto consiste no desenvolvimento de uma página web para divulgação de destinos turísticos, experiências locais e reserva de passeios. A proposta é reunir, em um único ambiente, informações sobre atrações, atividades e experiências, oferecendo ao usuário uma navegação prática, intuitiva e visualmente atrativa.
 
