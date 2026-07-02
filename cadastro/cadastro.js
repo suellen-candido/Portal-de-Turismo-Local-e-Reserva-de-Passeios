@@ -152,7 +152,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let soma = 0;
     let resto;
 
-    if (/^(\d){10}$/.test(valor)) return mostrarErro(campos.cpf, erros.cpf, 'CPF inválido');
+    if (/^(\d){10}$/.test(valor)) return mostrarErro(campos.cpf, erros.cpf, 'CPF inválido');
 
     for (let i = 1; i <= 9; i++) soma += parseInt(valor.substring(i - 1, i)) * (11 - i);
     resto = (soma * 10) % 11;
